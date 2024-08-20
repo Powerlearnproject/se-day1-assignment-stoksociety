@@ -5,13 +5,16 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is the discipline of designing, developing, testing, and maintaining software systems through a systematic, disciplined, and measurable approach. It applies engineering principles and practices to software creation, ensuring that software is reliable, efficient, and meets the needs of users and businesses.
+
 Importance of software engineering are :-
 Collaboration and Teamwork: Large software projects often require collaboration across multiple teams and disciplines. Software engineering provides a common framework and language, enabling effective communication and coordination.
 
 Compliance and Regulation: In industries where software must comply with strict regulatory requirements (e.g., healthcare, finance), software engineering ensures that these standards are met, avoiding legal and financial penalties.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 The Introduction of High-Level Programming Languages (1950s-1960s)
 Milestone: The development of high-level programming languages like FORTRAN (1957) and COBOL (1959).
 Description: Prior to the advent of high-level programming languages, software was written in machine code or assembly language, which was time-consuming and prone to errors. High-level languages abstracted the complexity of machine code, allowing developers to write more understandable and maintainable code. This shift enabled more people to learn programming and led to faster and more efficient software development.
